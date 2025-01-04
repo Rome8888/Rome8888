@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Data Engineer | MLOps Enthusiast<br>🚀 Currently working on Energy-Data Engineering and MLOps projects, with a focus on scaling solutions for businesses. Passionate about building robust pipelines and integrating modern ML workflows.<br><br>🌱 Learning:<br><br>Docker 🐳 for containerized environments<br>Kubernetes ☸️ for orchestration<br>💡 Open to collaborations on business-scale projects. Let's build something great together!
+👨‍💻 Data Engineer | MLOps Enthusiast<br>🚀 Currently working on ⚡ Energy-Data Engineering and MLOps projects, with a focus on scaling solutions for businesses. Passionate about building robust pipelines and integrating modern ML workflows.<br><br>🌱 Learning:<br><br>Docker 🐳 for containerized environments<br>Kubernetes ☸️ for orchestration<br>💡 Open to collaborations on business-scale projects. Let's build something great together!
 
 
 # 💻 Tech Stack:
